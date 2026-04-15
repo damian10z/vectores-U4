@@ -1,6 +1,5 @@
 //CoinD
 import java.util.Scanner;
-d
 public class sca {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
