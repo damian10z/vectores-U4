@@ -1,0 +1,27 @@
+{
+  "name": "Entorno Java",
+  "image": "mcr.microsoft.com/devcontainers/java:21",
+  
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {
+      "version": "latest",
+      "ppa": "false"
+    }
+  },
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack"
+      ],
+      "settings": {
+        "github.copilot.enable": {
+          "*": false
+        },
+        "editor.inlineSuggest.enabled": false,
+        "workbench.activityBar.location": "hidden",
+        "explorer.openEditors.visible": 0
+      }
+    }
+  }
+}
