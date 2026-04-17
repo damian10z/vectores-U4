@@ -1,4 +1,4 @@
-//CoinD
+//CoinD1
 import java.util.Scanner;
 public class sca {
     public static void main(String[] args) {
