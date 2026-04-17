@@ -1,7 +1,7 @@
-//CoinD
-mport java.util.Scanner;
+//CoinD2
+import java.util.Scanner;
 
-public class EjerciciosP {
+public class ejerciciosP {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String[] nombres = new String[5];
