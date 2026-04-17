@@ -1,4 +1,4 @@
-//Coind
+//Coind3 
 import java.util.Scanner;
 public class EjerciciosA {
     public static void main(String[] args) {
